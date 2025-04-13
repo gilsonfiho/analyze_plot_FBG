@@ -1,10 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Dados fornecidos
-
-deformacao = np.array([3226.72, 3844.87, 6101.66])
-peso = np.array([3660,  3900,  4890])
+# Fornecer Dados
+deformacao = ""
+peso = ""
 
 
 # Cálculo dos coeficientes da regressão linear

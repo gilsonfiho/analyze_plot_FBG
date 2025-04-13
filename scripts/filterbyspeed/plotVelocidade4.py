@@ -5,7 +5,7 @@ from scipy.signal import find_peaks
 import matplotlib as plt
 
 # Caminho para a pasta contendo os arquivos PKL gerados
-folder_path = r'C:\Users\Gilson\Downloads\Teste_Plot_Corte\filtered_by_speed'
+folder_path = r''
 
 # Lista para armazenar as informações dos veículos
 veiculos_data = []

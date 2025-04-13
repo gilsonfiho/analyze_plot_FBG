@@ -5,8 +5,8 @@ import numpy as np
 from scipy.signal import find_peaks
 
 # Caminho para a pasta contendo os arquivos PKL gerados
-folder_path = r'C:\Users\Gilson\Downloads\Teste_Plot_Corte\filtered_by_speed'
-pkl_file = 'veiculos_33kmh_606_veiculos.pkl'  # Substitua pelo nome do arquivo desejado
+folder_path = r''
+pkl_file = ''  # Substitua pelo nome do arquivo desejado
 
 # Construir o caminho completo para o arquivo
 file_path = os.path.join(folder_path, pkl_file)

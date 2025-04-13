@@ -1,9 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Dados fornecidos
-deformacao = np.array([1979.49, 1568.80, 4031.05])
-peso = np.array([2670,  1950,  4890, ])
+# Fornecer Dados
+deformacao = ""
+peso = ""
 
 # Definir o grau do polinômio
 grau = 2  # Altere este valor para o grau desejado

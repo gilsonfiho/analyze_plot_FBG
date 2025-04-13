@@ -5,7 +5,7 @@ import numpy as np
 from scipy.signal import find_peaks
 
 # Caminho para a pasta contendo os arquivos PKL gerados
-folder_path = r'C:\Users\Gilson\Downloads\Teste_Plot_Corte\filtered_by_placa'
+folder_path = r''
 
 # Listar todos os arquivos PKL na pasta
 pkl_files = [f for f in os.listdir(folder_path) if f.endswith('.pkl')]
