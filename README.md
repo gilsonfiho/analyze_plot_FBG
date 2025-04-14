@@ -6,7 +6,7 @@
 Permitir a análise dos sinais obtidos via sensores FBG, especialmente para:
 - 📈 Visualização dos dados em tempo real ou pós-processamento
 - 🧠 Regressão e suavização dos sinais
-- 🚗 Identificação de eventos (como passagem de veículos)
+- 🚗 Recorte de eventos (como passagem de veículos para o caso de WIM)
 - 🕒 Cálculo da velocidade com base no tempo entre sensores
 - 📊 Geração de estatísticas dos experimentos
 
