@@ -6,7 +6,7 @@
 Permitir a análise dos sinais obtidos via sensores FBG, especialmente para:
 - 📈 Visualização dos dados em tempo real ou pós-processamento
 - 🧠 Regressão e suavização dos sinais
-- 🚗 Recorte de eventos (como passagem de veículos para o caso de WIM)
+- 🚗 Recorte de eventos 
 - 🕒 Cálculo da velocidade com base no tempo entre sensores
 - 📊 Geração de estatísticas dos experimentos
 
@@ -14,7 +14,7 @@ Permitir a análise dos sinais obtidos via sensores FBG, especialmente para:
 
 ## ⚙️ Principais Scripts
 
-### 🔹 Regressão e Pré-processamento
+### 🔹 Pré-processamento e Regressão 
 
 - `regress.py`, `regress2.py`, `regress3.py`  
   > Contém funções para interpolação, suavização e regressão de sinais, com base em bibliotecas como `scipy` e `numpy`. Utilizado para melhorar a qualidade dos dados antes da análise.
